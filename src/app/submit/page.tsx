@@ -56,13 +56,13 @@ export default function SubmitPage() {
             Send us an email with your AI tool details
           </p>
           <a 
-            href="mailto:contact@aitools.directory?subject=AI Tool Submission&body=Hi,%0A%0AI would like to submit my AI tool to your directory.%0A%0ATool Name:%0AURL:%0ADescription:%0ACategory:%0APricing:%0A%0AThank you!"
+            href="mailto:nightdeale2025@gmail.com?subject=AI Tool Submission&body=Hi,%0A%0AI would like to submit my AI tool to your directory.%0A%0ATool Name:%0AURL:%0ADescription:%0ACategory:%0APricing:%0A%0AThank you!"
             className="inline-block px-6 py-3 bg-blue-600 text-white rounded-lg font-medium hover:bg-blue-700 transition"
           >
             ✉️ Send Email
           </a>
           <p className="text-gray-500 text-sm mt-4">
-            Or email us directly: <span className="font-mono text-blue-600">contact@aitools.directory</span>
+            Or email us directly: <span className="font-mono text-blue-600">nightdeale2025@gmail.com</span>
           </p>
         </div>
         
