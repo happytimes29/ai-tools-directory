@@ -12,6 +12,20 @@ const allTools = [
   { name: "智譜清言", url: "https://www.zhipuai.cn", description: "智譜 AI 對話助手", category: "llm-chat", pricing: "Free" },
   { name: "Kimi", url: "https://kimi.moonshot.cn", description: "月之暗面 AI 助手", category: "llm-chat", pricing: "Free" },
   { name: "DeepSeek", url: "https://www.deepseek.com", description: "深度求索 AI", category: "llm-chat", pricing: "Freemium" },
+  { name: "豆包", url: "https://www.douyin.com", description: "字節跳動旗下 AI 智能助手", category: "llm-chat", pricing: "Free" },
+  { name: "Perplexity", url: "https://www.perplexity.ai", description: "AI 搜尋引擎", category: "search", pricing: "Freemium" },
+  { name: "秘塔AI搜索", url: "https://metaso.cn", description: "秘塔科技 AI 搜索", category: "search", pricing: "Free" },
+  { name: "Genspark", url: "https://genspark.com", description: "AI 搜尋與智能代理", category: "search", pricing: "Freemium" },
+  { name: "Devv AI", url: "https://devv.ai", description: "開發者 AI 搜尋引擎", category: "coding", pricing: "Freemium" },
+  { name: "ChandlerAi", url: "https://chandler.ai", description: "AI 聊天機器人", category: "llm-chat", pricing: "Freemium" },
+  { name: "Deepbricks", url: "https://deepbricks.ai", description: "AI 圖片生成", category: "image-generation", pricing: "Freemium" },
+  { name: "悟道", url: "https://www.baai.ac.cn", description: "北京智源 AI", category: "llm-chat", pricing: "Free" },
+  { name: "MOSS", url: "https://moss.fastnlp.top", description: "復旦大學 AI", category: "llm-chat", pricing: "Free" },
+  { name: "階躍星辰", url: "https://www.stepfun.com", description: "階躍星辰 AI", category: "llm-chat", pricing: "Freemium" },
+  { name: "MiniMax", url: "https://www.minimaxi.com", description: "MiniMax AI", category: "llm-chat", pricing: "Freemium" },
+  { name: "商湯日日新", url: "https://www.sensetime.com", description: "商湯 AI 大模型", category: "llm-chat", pricing: "Freemium" },
+  { name: "華為盤古", url: "https://www.huawei.com", description: "華為 AI 大模型", category: "llm-chat", pricing: "Freemium" },
+  { name: "騰訊混元", url: "https://www.tencent.com", description: "騰訊 AI 大模型", category: "llm-chat", pricing: "Freemium" },
   
   // ============ Image Generation ============
   { name: "Midjourney", url: "https://www.midjourney.com", description: "AI image generation", category: "image-generation", pricing: "$10/mo" },
@@ -24,18 +38,18 @@ const allTools = [
   { name: "堆萊AI", url: "https://www.duitai.com", description: "堆萊 AI 圖片生成", category: "image-generation", pricing: "Freemium" },
   { name: "秒秒藝術", url: "https://www.miaomiaoyishu.com", description: "字節跳動 AI 繪畫", category: "image-generation", pricing: "Freemium" },
   { name: "通義萬相", url: "https://tongyi.aliyun.com/wanxiang", description: "阿里 AI 圖片生成", category: "image-generation", pricing: "Free" },
+  { name: "Recraft", url: "https://recraft.ai", description: "AI 圖片與設計生成", category: "image-generation", pricing: "Freemium" },
+  { name: "StockCake", url: "https://stockcake.com", description: "免費正版高清圖片素材庫", category: "image-generation", pricing: "Free" },
   
   // ============ Video Generation ============
   { name: "Runway", url: "https://runwayml.com", description: "AI creative tools", category: "video-generation", pricing: "Freemium" },
   { name: "Pika", url: "https://pika.art", description: "AI video generation", category: "video-generation", pricing: "Freemium" },
-  { name: "Luma AI", url: "https://lumalabs.ai", description: "AI 3D & video", category: "video-generation", pricing: "Freemium" },
+  { name: "Luma AI", url: "https://lumalabs.ai", description: "AI 3D and video", category: "video-generation", pricing: "Freemium" },
   { name: "Sora", url: "https://openai.com/sora", description: "OpenAI video AI", category: "video-generation", pricing: "Waitlist" },
   { name: "可靈AI", url: "https://klingai.com", description: "快手 AI 影片生成", category: "video-generation", pricing: "Freemium" },
   { name: "海螺AI", url: "https://hailuoai.com", description: "位元組跳動 AI 影片", category: "video-generation", pricing: "Freemium" },
-  { name: "Runway Gen", url: "https://runwayml.com/gen", description: "AI video generation", category: "video-generation", pricing: "$15/mo" },
-  { name: "Pika Labs", url: "https://pika.art", description: "AI video creation", category: "video-generation", pricing: "Freemium" },
   { name: "Luma Dream Machine", url: "https://lumalabs.ai/dream-machine", description: "AI video from images", category: "video-generation", pricing: "Freemium" },
-  { name: "腾讯智影", url: "https://zenvideo.qq.com", description: "騰訊 AI 影片工具", category: "video-generation", pricing: "Freemium" },
+  { name: "騰訊智影", url: "https://zenvideo.qq.com", description: "騰訊 AI 影片工具", category: "video-generation", pricing: "Freemium" },
   
   // ============ AI Writing ============
   { name: "Jasper", url: "https://jasper.ai", description: "AI copywriting", category: "ai-writing", pricing: "$40/mo" },
@@ -46,8 +60,8 @@ const allTools = [
   { name: "Notion AI", url: "https://notion.so/product/ai", description: "Notion AI assistant", category: "ai-writing", pricing: "$10/mo" },
   { name: "Grammarly", url: "https://grammarly.com", description: "AI grammar checker", category: "ai-writing", pricing: "Freemium" },
   { name: "秘塔寫作貓", url: "https://xiezuocat.com", description: "秘塔科技 AI 寫作", category: "ai-writing", pricing: "Freemium" },
-  { name: "筆神作文", url: "https://www.bishen365.com", description: "AI 作文助手", category: "ai-writing", pricing: "Freemium" },
   { name: "Effidit", url: "https://effidit.qq.com", description: "騰訊 AI 寫作助手", category: "ai-writing", pricing: "Free" },
+  { name: "BibiGPT", url: "https://bibigpt.co", description: "音視頻 AI 一鍵總結", category: "ai-writing", pricing: "Freemium" },
   
   // ============ Coding ============
   { name: "GitHub Copilot", url: "https://github.com/features/copilot", description: "AI code completion", category: "coding", pricing: "$10/mo" },
@@ -60,6 +74,7 @@ const allTools = [
   { name: "v0", url: "https://v0.dev", description: "Vercel AI UI generator", category: "coding", pricing: "Free" },
   { name: "通義靈碼", url: "https://tongyi.aliyun.com/code", description: "阿里雲 AI 編碼助手", category: "coding", pricing: "Free" },
   { name: "文心快碼", url: "https://comate.baidu.com", description: "百度 AI 編碼助手", category: "coding", pricing: "Free" },
+  { name: "UseChatGPT.AI", url: "https://usechatgpt.ai", description: "瀏覽器插件到處使用 ChatGPT", category: "coding", pricing: "Freemium" },
   
   // ============ Music/Audio ============
   { name: "Suno", url: "https://suno.ai", description: "AI music generation", category: "music-audio", pricing: "$10/mo" },
@@ -86,16 +101,15 @@ const allTools = [
   { name: "圖怪創意", url: "https://www.ishiguang.com", description: "鹿斑馬 AI 設計", category: "design", pricing: "Freemium" },
   
   // ============ Search ============
-  { name: "Perplexity", url: "https://www.perplexity.ai", description: "AI answer engine", category: "search", pricing: "Freemium" },
   { name: "Arc Search", url: "https://arc.net", description: "AI browser search", category: "search", pricing: "Free" },
   { name: "You.com", url: "https://you.com", description: "AI-powered search", category: "search", pricing: "Freemium" },
   { name: "天工AI搜索", url: "https://www.tiangong.cn", description: "昆侖萬維 AI 搜索", category: "search", pricing: "Free" },
-  { name: "秘塔AI搜索", url: "https://metaso.cn", description: "秘塔科技 AI 搜索", category: "search", pricing: "Free" },
   { name: "Komo AI", url: "https://komo.ai", description: "AI search engine", category: "search", pricing: "Free" },
   { name: "Andisearch", url: "https://andisearch.com", description: "AI search assistant", category: "search", pricing: "Free" },
   { name: "iAsk", url: "https://iask.ai", description: "AI Q&A search", category: "search", pricing: "Free" },
   { name: "Phind", url: "https://phind.com", description: "Developer AI search", category: "search", pricing: "Free" },
   { name: "Brave Summarizer", url: "https://brave.com", description: "AI search summary", category: "search", pricing: "Free" },
+  { name: "AI工具集", url: "https://ai-bot.cn", description: "1000+ AI工具集合", category: "search", pricing: "Free" },
   
   // ============ Productivity ============
   { name: "Otter.ai", url: "https://otter.ai", description: "AI meeting notes", category: "productivity", pricing: "Freemium" },
@@ -120,18 +134,6 @@ const allTools = [
   { name: "Elicit", url: "https://elicit.org", description: "AI research search", category: "learning", pricing: "Free" },
   { name: "學習通", url: "https://www.xuetongx.com", description: "超星學習 AI", category: "learning", pricing: "Freemium" },
   { name: "有道AI", url: "https://ai.youdao.com", description: "網易有道 AI 學習", category: "learning", pricing: "Freemium" },
-  
-  // ============ More AI Tools (Chinese) ============
-  { name: "悟道", url: "https://www.baai.ac.cn", description: "北京智源 AI", category: "llm-chat", pricing: "Free" },
-  { name: "MOSS", url: "https://moss.fastnlp.top", description: "復旦大學 AI", category: "llm-chat", pricing: "Free" },
-  { name: "階躍星辰", url: "https://www.stepfun.com", description: "階躍星辰 AI", category: "llm-chat", pricing: "Freemium" },
-  { name: "MiniMax", url: "https://www.minimaxi.com", description: "MiniMax AI", category: "llm-chat", pricing: "Freemium" },
-  { name: "智譜AI", url: "https://www.zhipuai.cn", description: "智譜清言企業版", category: "llm-chat", pricing: "Freemium" },
-  { name: "字節跳動AI", url: "https://www.bytedance.com", description: "字節 AI 產品矩陣", category: "llm-chat", pricing: "Freemium" },
-  { name: "商湯日日新", url: "https://www.sensetime.com", description: "商湯 AI 大模型", category: "llm-chat", pricing: "Freemium" },
-  { name: "華為盤古", url: "https://www.huawei.com", description: "華為 AI 大模型", category: "llm-chat", pricing: "Freemium" },
-  { name: "騰訊混元", url: "https://www.tencent.com", description: "騰訊 AI 大模型", category: "llm-chat", pricing: "Freemium" },
-  { name: "抖音AI", url: "https://www.douyin.com", description: "抖音 AI 工具", category: "video-generation", pricing: "Freemium" },
 ];
 
 export default function ToolsPage() {
@@ -151,7 +153,7 @@ export default function ToolsPage() {
             className="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition group"
           >
             <div className="flex items-start justify-between mb-2">
-              <h3 className="font-bold text-lg text-gray-900 group-hover:text-primary">
+              <h3 className="font-bold text-lg text-gray-900 group-hover:text-blue-600">
                 {tool.name}
               </h3>
               <span className={`text-xs px-2 py-1 rounded ${
