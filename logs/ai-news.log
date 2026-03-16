@@ -1,0 +1,175 @@
+/Users/jk_space/.openclaw/workspace/tools/ai-news-push.js:31
+      res.on('end () => {
+             ^^^^^^^^^^^^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (node:internal/modules/cjs/loader:1762:18)
+    at Module._compile (node:internal/modules/cjs/loader:1805:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1971:10)
+    at Module.load (node:internal/modules/cjs/loader:1552:32)
+    at Module._load (node:internal/modules/cjs/loader:1354:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v25.8.0
+🔍 搜索 AI 新闻...
+
+📰 AI 新闻早报
+━━━━━━━━━━━━━━━━━━
+
+1. 人工智能最新快讯
+   # 人工智能. 【#Meta正计划大规模裁员#】 3月14日，Meta正计划进行大规模裁员，可能影响公司20%或更多员工，此举旨在抵消高昂的人工智能基础设施投资成本，并为人工智能辅助员工带来的更高效率...
+   🔗 https://tags.sina.com.cn/film_aiartificialintelligence
+
+2. 应用_AI人工智能_最新进展| 雷锋网
+   * 对话加拿大工程院于非院士：寻找 AI 领域的「香农定理」. * 独家 | 创新工场首席科学家周明：NLP 与金融「联姻」，从经济实惠的小模型开始. | IEEE Fellow黄建伟：「网络经济、群...
+   🔗 https://m.leiphone.com/category/ai
+
+3. AI人工智慧- 科技島-掌握科技新聞、科技職場最新資訊
+   # AI人工智慧. ## AI總是弄錯你的意思？Prompt Builder 15秒給你專業等級的指令. ## DeepSeek將發表最新AI模型！整合華為晶片迎戰美國隊. ## 中國DeepSeek...
+   🔗 https://www.technice.com.tw/category/issues/ai/
+
+4. 人工智能| 世界新聞網
+   ## 川普盼各國派軍艦確保荷莫茲海峽暢通 中國被點名. # 人工智能. ## 破5億播放 AI短劇「霍去病」席捲全球 「霍去病」的走紅與製作團隊如今水漲船高的行情，不僅展示AI賦能內容創作的驚人潛力，...
+   🔗 https://www.worldjournal.com/search/tagging/8877/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
+
+5. 人工智能 - UN News - the United Nations
+   ## 语言. ## 菜单. ## 语言. ## 搜索. ## Audio and Subscription. ## 筛选. ## 人工智能正在“以光速发展”，联合国成立科学专家组推进安全治理. ## ...
+   🔗 https://news.un.org/zh/tags/rengongzhineng
+
+6. 人工智能：新闻、播客、视频和分析- 法广
+   # 人工智能. Illustration shows Deepseek logo and Chinese flag. Illustration shows ChatGPT logo, keyboard...
+   🔗 https://www.rfi.fr/cn/%E5%85%B3%E9%94%AE%E8%AF%8D/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/
+
+7. GenAI 新闻通讯--Artefact
+   Subscribe to our Gen AI Newsletters on LinkedIn. * ## GenAI Newsletter September – Why GenAI pilots ...
+   🔗 https://www.artefact.com/zh/newsletter-gen-ai/
+
+8. 快讯- 每天三分钟，读懂全球智能产业- 智东西
+   快讯  头条  人工智能  芯东西  AIoT  云与智慧城市  机器人  VR/AR  手机通信  活动. #腾讯#腾讯#速腾聚创#阶跃星辰#红旗#大疆#钉钉#北电数智#融资#百度#千问....
+   🔗 https://m.zhidx.com/news
+
+━━━━━━━━━━━━━━━━━━
+🤖 每天早上 8 点自动推送
+⚠️ 未配置 Feishu Bot Token，跳过发送
+消息内容:
+ 📰 AI 新闻早报
+━━━━━━━━━━━━━━━━━━
+
+1. 人工智能最新快讯
+   # 人工智能. 【#Meta正计划大规模裁员#】 3月14日，Meta正计划进行大规模裁员，可能影响公司20%或更多员工，此举旨在抵消高昂的人工智能基础设施投资成本，并为人工智能辅助员工带来的更高效率...
+   🔗 https://tags.sina.com.cn/film_aiartificialintelligence
+
+2. 应用_AI人工智能_最新进展| 雷锋网
+   * 对话加拿大工程院于非院士：寻找 AI 领域的「香农定理」. * 独家 | 创新工场首席科学家周明：NLP 与金融「联姻」，从经济实惠的小模型开始. | IEEE Fellow黄建伟：「网络经济、群...
+   🔗 https://m.leiphone.com/category/ai
+
+3. AI人工智慧- 科技島-掌握科技新聞、科技職場最新資訊
+   # AI人工智慧. ## AI總是弄錯你的意思？Prompt Builder 15秒給你專業等級的指令. ## DeepSeek將發表最新AI模型！整合華為晶片迎戰美國隊. ## 中國DeepSeek...
+   🔗 https://www.technice.com.tw/category/issues/ai/
+
+4. 人工智能| 世界新聞網
+   ## 川普盼各國派軍艦確保荷莫茲海峽暢通 中國被點名. # 人工智能. ## 破5億播放 AI短劇「霍去病」席捲全球 「霍去病」的走紅與製作團隊如今水漲船高的行情，不僅展示AI賦能內容創作的驚人潛力，...
+   🔗 https://www.worldjournal.com/search/tagging/8877/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
+
+5. 人工智能 - UN News - the United Nations
+   ## 语言. ## 菜单. ## 语言. ## 搜索. ## Audio and Subscription. ## 筛选. ## 人工智能正在“以光速发展”，联合国成立科学专家组推进安全治理. ## ...
+   🔗 https://news.un.org/zh/tags/rengongzhineng
+
+6. 人工智能：新闻、播客、视频和分析- 法广
+   # 人工智能. Illustration shows Deepseek logo and Chinese flag. Illustration shows ChatGPT logo, keyboard...
+   🔗 https://www.rfi.fr/cn/%E5%85%B3%E9%94%AE%E8%AF%8D/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/
+
+7. GenAI 新闻通讯--Artefact
+   Subscribe to our Gen AI Newsletters on LinkedIn. * ## GenAI Newsletter September – Why GenAI pilots ...
+   🔗 https://www.artefact.com/zh/newsletter-gen-ai/
+
+8. 快讯- 每天三分钟，读懂全球智能产业- 智东西
+   快讯  头条  人工智能  芯东西  AIoT  云与智慧城市  机器人  VR/AR  手机通信  活动. #腾讯#腾讯#速腾聚创#阶跃星辰#红旗#大疆#钉钉#北电数智#融资#百度#千问....
+   🔗 https://m.zhidx.com/news
+
+━━━━━━━━━━━━━━━━━━
+🤖 每天早上 8 点自动推送
+
+✅ 完成
+🔍 搜索 AI 新闻...
+
+📰 AI 新闻早报
+━━━━━━━━━━━━━━━━━━
+
+1. AI资讯_获取AGI最新头条资讯 - AIBase
+   #### AI新闻资讯#### 最新AI日报. #### AI 商用·开源产品库. 热门AI产品实力、热度、年/月/日排行#### AI产品提交. #### AI工具导航. #### 模型库. 热门A...
+   🔗 https://www.aibase.com/zh/www.aibase.com/zh/news
+
+2. 应用_AI人工智能_最新进展| 雷锋网
+   * 对话加拿大工程院于非院士：寻找 AI 领域的「香农定理」. * 独家 | 创新工场首席科学家周明：NLP 与金融「联姻」，从经济实惠的小模型开始. | IEEE Fellow黄建伟：「网络经济、群...
+   🔗 https://m.leiphone.com/category/ai
+
+3. 人工智能 - 国际科技创新中心
+   请使用您的北京市统一身份认证账号和密码登录本平台，如果您在登录过程中遇到任何问题，请及时与我们联系，联系电话：13581953095。. 您现在的位置：首页 > 科技动态 > 科技热点 > 人工智能....
+   🔗 https://www.ncsti.gov.cn/kjdt/kjrd/
+
+4. 人工智能 - DW.com
+   人工智能（英语：artificial intelligence，缩写为AI），亦称机器智能，指由人制造出来的机器所表现出来的智慧。通常人工智能是指用计算机程序来呈现人类智能的技术。. ## 每日新闻....
+   🔗 https://www.dw.com/zh/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/t-69572979
+
+5. 人工智能 - UN News - the United Nations
+   ## 语言. ## 菜单. ## 语言. ## 搜索. ## Audio and Subscription. ## 筛选. ## 人工智能正在“以光速发展”，联合国成立科学专家组推进安全治理. ## ...
+   🔗 https://news.un.org/zh/tags/rengongzhineng
+
+6. 人工智能消息与行业资讯动态 - OFweek
+   ## ҵ. го  ѷ,Ա,AI,˹ 2026-03-08. го  ̾, 2026-03-08. ҵ AI,˲,  2026-03-06. ҵ AI  2026-03-06. го  ,ְ,ֿD 2...
+   🔗 https://www.ofweek.com/ai/CATList-201700-8100-ai.html
+
+7. AI | 世界新聞網
+   ### 我的頻道. ## 放棄美國國籍費用大降價 2350元變450元 4月13日起生效. ## 比率太嚇人 史丹福近四成大學生登記為殘疾者. # AI. ## AI搶飯碗 28歲男收入暴跌剩3分之1...
+   🔗 https://www.worldjournal.com/search/tagging/8877/AI
+
+8. 快讯- 每天三分钟，读懂全球智能产业- 智东西
+   快讯  头条  人工智能  芯东西  AIoT  云与智慧城市  机器人  VR/AR  手机通信  活动. #腾讯#腾讯#大疆#钉钉#北电数智#融资#千问#百度#速腾聚创#阶跃星辰#红旗....
+   🔗 https://m.zhidx.com/news
+
+━━━━━━━━━━━━━━━━━━
+🤖 每天早上 8 点自动推送
+⚠️ 未配置 Feishu Bot Token，跳过发送
+消息内容:
+ 📰 AI 新闻早报
+━━━━━━━━━━━━━━━━━━
+
+1. AI资讯_获取AGI最新头条资讯 - AIBase
+   #### AI新闻资讯#### 最新AI日报. #### AI 商用·开源产品库. 热门AI产品实力、热度、年/月/日排行#### AI产品提交. #### AI工具导航. #### 模型库. 热门A...
+   🔗 https://www.aibase.com/zh/www.aibase.com/zh/news
+
+2. 应用_AI人工智能_最新进展| 雷锋网
+   * 对话加拿大工程院于非院士：寻找 AI 领域的「香农定理」. * 独家 | 创新工场首席科学家周明：NLP 与金融「联姻」，从经济实惠的小模型开始. | IEEE Fellow黄建伟：「网络经济、群...
+   🔗 https://m.leiphone.com/category/ai
+
+3. 人工智能 - 国际科技创新中心
+   请使用您的北京市统一身份认证账号和密码登录本平台，如果您在登录过程中遇到任何问题，请及时与我们联系，联系电话：13581953095。. 您现在的位置：首页 > 科技动态 > 科技热点 > 人工智能....
+   🔗 https://www.ncsti.gov.cn/kjdt/kjrd/
+
+4. 人工智能 - DW.com
+   人工智能（英语：artificial intelligence，缩写为AI），亦称机器智能，指由人制造出来的机器所表现出来的智慧。通常人工智能是指用计算机程序来呈现人类智能的技术。. ## 每日新闻....
+   🔗 https://www.dw.com/zh/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/t-69572979
+
+5. 人工智能 - UN News - the United Nations
+   ## 语言. ## 菜单. ## 语言. ## 搜索. ## Audio and Subscription. ## 筛选. ## 人工智能正在“以光速发展”，联合国成立科学专家组推进安全治理. ## ...
+   🔗 https://news.un.org/zh/tags/rengongzhineng
+
+6. 人工智能消息与行业资讯动态 - OFweek
+   ## ҵ. го  ѷ,Ա,AI,˹ 2026-03-08. го  ̾, 2026-03-08. ҵ AI,˲,  2026-03-06. ҵ AI  2026-03-06. го  ,ְ,ֿD 2...
+   🔗 https://www.ofweek.com/ai/CATList-201700-8100-ai.html
+
+7. AI | 世界新聞網
+   ### 我的頻道. ## 放棄美國國籍費用大降價 2350元變450元 4月13日起生效. ## 比率太嚇人 史丹福近四成大學生登記為殘疾者. # AI. ## AI搶飯碗 28歲男收入暴跌剩3分之1...
+   🔗 https://www.worldjournal.com/search/tagging/8877/AI
+
+8. 快讯- 每天三分钟，读懂全球智能产业- 智东西
+   快讯  头条  人工智能  芯东西  AIoT  云与智慧城市  机器人  VR/AR  手机通信  活动. #腾讯#腾讯#大疆#钉钉#北电数智#融资#千问#百度#速腾聚创#阶跃星辰#红旗....
+   🔗 https://m.zhidx.com/news
+
+━━━━━━━━━━━━━━━━━━
+🤖 每天早上 8 点自动推送
+
+✅ 完成
